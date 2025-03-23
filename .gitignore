@@ -1,0 +1,6 @@
+# Ignore large files (if not using Git LFS)
+data/*.csv
+data/*.bin
+embeddings/*.pkl
+__pycache__/
+*.log
